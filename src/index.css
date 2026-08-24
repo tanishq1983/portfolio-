@@ -1,0 +1,10 @@
+/* Minimal reset - main styles are in styles/main.css */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
